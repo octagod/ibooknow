@@ -1,0 +1,30 @@
+{
+  "name": "ibooknow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "nicklaus",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0",
+    "firebase-admin": "^10.1.0",
+    "formidable": "^2.0.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^3.2.4",
+    "nodemailer": "^6.7.4",
+    "objects-to-csv": "^1.3.6",
+    "uuid-v4": "^0.1.0"
+  }
+}
