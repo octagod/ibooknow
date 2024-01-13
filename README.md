@@ -9,6 +9,7 @@ iBooknow is CMS B2B Saas that allows vehicle rental business owners to manage th
 3. Embeding fleets on funnels/external websites or as a standalone
 
 ## Demo
+
 [Live Link](https://ibooknow-fbdae3dcf11a.herokuapp.com/)
 
 ## Stacks
