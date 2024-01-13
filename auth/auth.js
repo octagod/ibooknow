@@ -195,6 +195,7 @@ router.post('/api/forgotten-password', (req,res) => {
 });
 
 router.post('/api/reset-password', (req, res) => {
+    console.log('contact')
     //check if email exists
     firestore.collection('users').where('email', '==', req.body.email).get()
     .then(snap => {
