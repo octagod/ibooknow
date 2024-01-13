@@ -8,6 +8,9 @@ iBooknow is CMS B2B Saas that allows vehicle rental business owners to manage th
 2. Managing requests on each fleet
 3. Embeding fleets on funnels/external websites or as a standalone
 
+## Demo
+[Live Link](https://ibooknow-fbdae3dcf11a.herokuapp.com/)
+
 ## Stacks
 
 This project was built with the following technologies
@@ -70,9 +73,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 `Run the following commands in the project's root directory`
 
-## `node index`
+### `node index`
 
 This starts up the web app on port `9000`. You can use a file watcher like nodemon which serves the same purpose plus watches the files for changes.
+
 
 ## Author
 
