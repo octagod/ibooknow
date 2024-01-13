@@ -2,7 +2,7 @@
   "name": "ibooknow",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:9000",
+  "proxy": "https://ibooknow-fbdae3dcf11a.herokuapp.com/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
